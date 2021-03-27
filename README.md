@@ -1,5 +1,4 @@
-# Merge-etConflit
-REMOTE
+LOCAL
 
 Quelques lignes de texte dans me fichier 
 
